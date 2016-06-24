@@ -1,5 +1,9 @@
 # AC-Modpack
 
-1. Install [Forge](http://files.minecraftforge.net)
-2. [Download](https://github.com/ArdaCraft/modpack/releases/download/0.1-BETA/ArdaCraft_Installer-BETA.jar "direct link!") and run the modpack installer
-3. Run the Minecraft launcher and select the modpack profile
+Mods List (* = required to join server):
+- *AC-CreativeBlock - custom blocks
+- *ACPaintings - custom paintings
+- DaFlight - fly mod
+- NoClip - noclip mod
+- OptiFine - connected textures and other video settings
+- Optifix - fixes bugs with Optifine + adds transparency to carpet blocks
