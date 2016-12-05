@@ -1,0 +1,53 @@
+{
+  "root": "profiles",
+  "targets": [
+    {
+      "owner": "ArdaCraft",
+      "repository": "ACResourcepack",
+      "target": "latest",
+      "assets": [
+        {
+          "match": "^AC",
+          "extract": false,
+          "parent": "resourcepacks"
+        }
+      ]
+    },
+    {
+      "owner": "ArdaCraft",
+      "repository": "Blockpack-Conquest",
+      "target": "latest",
+      "assets": [
+        {
+          "match": "^blockpack",
+          "extract": false,
+          "parent": "blockpacks"
+        }
+      ]
+    },
+    {
+      "owner": "ArdaCraft",
+      "repository": "Blockpack-Eriador",
+      "target": "latest",
+      "assets": [
+        {
+          "match": "^blockpack",
+          "extract": false,
+          "parent": "blockpacks"
+        }
+      ]
+    },
+    {
+      "owner": "ArdaCraft",
+      "repository": "Blockpack-Lindon",
+      "target": "latest",
+      "assets": [
+        {
+          "match": "^blockpack",
+          "extract": false,
+          "parent": "blockpacks"
+        }
+      ]
+    }
+  ]
+}
