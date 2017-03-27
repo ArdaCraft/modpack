@@ -1,0 +1,16 @@
+[
+    {
+        "name": "ArdaCraft",
+        "icon": "https://avatars2.githubusercontent.com/u/7772484?v=3&s=200",
+        "splash": "https://ardacraft.me",
+        "style": "http://ardacraft.github.io/modpack/new/style.css",
+        "repo": {
+            "owner": "ArdaCraft",
+            "name": "modpack"
+        },
+        "forge": {
+            "id": "1.8.9-forge1.8.9-11.15.1.1902-1.8.9",
+            "url": "https://github.com/dags-/fdist/releases/download/1.8.9-11.15.1.1902/forge-1.8.9-11.15.1.1902.zip"
+        }
+    }
+]
