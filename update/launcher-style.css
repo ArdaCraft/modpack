@@ -1,0 +1,48 @@
+.window-control-style {
+    -fx-background-color: none;
+    -fx-text-fill: #FFFFFF;
+    -fx-padding: 2px;
+}
+.button-style {
+    -fx-background-color: #03A9F4;
+    -fx-background-radius: 4px;
+    -fx-focus-color: #B3E5FC;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 16;
+}
+.main-button-style {
+    -fx-min-width: 125px;
+    -fx-min-height: 45px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 16;
+}
+.text-field-style {
+    -jfx-unfocus-color: #03A9F4;
+    -jfx-focus-color: #B3E5FC;
+    -fx-text-fill: #000000;
+    -fx-font-size: 16;
+}
+.combo-box-style {
+    -jfx-unfocus-color: #03A9F4;
+    -jfx-focus-color: #B3E5FC;
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: #000000;
+    -fx-font-size: 16;
+}
+.main-style {
+    -fx-alignment: bottom-center;
+    -fx-padding: 20px;
+    -fx-hgap: 20px;
+}
+.settings-style {
+    -fx-padding: 75 20;
+    -fx-min-height: 90%;
+    -fx-min-width: 90%;
+    -fx-background-color: #FFFFFF;
+}
+.dialog-style {
+    -fx-padding: 20 20;
+    -fx-min-height: 80%;
+    -fx-min-width: 80%;
+}
+.progress-bar-style {}
