@@ -3,7 +3,7 @@
         "name": "ArdaCraft",
         "icon": "https://avatars2.githubusercontent.com/u/7772484?v=3&s=200",
         "splash": "https://ardacraft.me",
-        "style": "todo.css",
+        "style": "http://ardacraft.github.io/modpack/update/launcher-style.css",
         "repo": {
             "owner": "ArdaCraft",
             "name": "modpack"
