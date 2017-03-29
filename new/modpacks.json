@@ -8,6 +8,7 @@
             "name": "modpack"
         },
         "base": {
+            "name": "Forge 1.8.9",
             "id": "1.8.9-forge1.8.9-11.15.1.1902-1.8.9",
             "url": "https://github.com/dags-/fdist/releases/download/1.8.9-11.15.1.1902/forge-1.8.9-11.15.1.1902.zip"
         }
@@ -21,6 +22,7 @@
             "name": "modpack"
         },
         "base": {
+            "name": "Forge 1.8.9",
             "id": "1.8.9-forge1.8.9-11.15.1.1902-1.8.9",
             "url": "https://github.com/dags-/fdist/releases/download/1.8.9-11.15.1.1902/forge-1.8.9-11.15.1.1902.zip"
         }
