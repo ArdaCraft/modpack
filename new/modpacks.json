@@ -1,14 +1,26 @@
 [
     {
         "name": "ArdaCraft",
-        "icon": "https://avatars2.githubusercontent.com/u/7772484?v=3&s=200",
-        "splash": "https://ardacraft.me",
-        "style": "http://ardacraft.github.io/modpack/new/style.css",
+        "view": "https://ardacraft.me",
+        "style": "https://code.getmdl.io/1.3.0/material.teal-blue.min.css",
         "repo": {
             "owner": "ArdaCraft",
             "name": "modpack"
         },
-        "forge": {
+        "base": {
+            "id": "1.8.9-forge1.8.9-11.15.1.1902-1.8.9",
+            "url": "https://github.com/dags-/fdist/releases/download/1.8.9-11.15.1.1902/forge-1.8.9-11.15.1.1902.zip"
+        }
+    },
+    {
+        "name": "ConquestReforged",
+        "view": "https://rawgit.com/dags-/a0bbea7d34d50a73024a3064eaa7cf42/raw/10a4b96f2d84a94cfe616cc1286464cec26aca5b/cr.html",
+        "style": "https://code.getmdl.io/1.3.0/material.grey-red.min.css",
+        "repo": {
+            "owner": "ArdaCraft",
+            "name": "modpack"
+        },
+        "base": {
             "id": "1.8.9-forge1.8.9-11.15.1.1902-1.8.9",
             "url": "https://github.com/dags-/fdist/releases/download/1.8.9-11.15.1.1902/forge-1.8.9-11.15.1.1902.zip"
         }
