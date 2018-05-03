@@ -1,0 +1,141 @@
+{
+  "name" : "ArdaCraft Modpack",
+  "title" : "ArdaCraft Modpack",
+  "gameVersion" : "1.10.2",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Better Foliage",
+        "description" : "Better Foliage is a Forge mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/BetterFoliage-MC1.10.2-2.1.3.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Journey Map",
+        "description" : "JourneyMap is a client+server mod for Forge which maps your Minecraft world in real-time as you explore.",
+        "recommendation" : "starred",
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/journeymap-1.10.2-5.4.6.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "MAtmos",
+        "description" : "MAtmos is a sound atmosphere generator for Minecraft. Whenever you play on any multiplayer server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds chirpling in the forest, rumbling noises near a lava lake or wind gusts on a hilltop.",
+        "recommendation" : "starred",
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/mod-mat-r33-mc1.10.2.litemod",
+          "mods/liteloader-1.10.2-release.jar",
+          "resourcepacks/MSI_conversion 1.10.2.zip"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Tabby Chat",
+        "description" : "TabbyChat is a client-side mod for Minecraft that aims to make the multiplayer chat interface more organized, managable, and user-friendly.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/mod-tabbychat-2-2.1.2-mc1.10.2.litemod",
+          "mods/liteloader-1.10.2-release.jar",
+          "mods/lib-mnmutils-1.2.3-mc1.10.2.litemod"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Presencefootsteps",
+        "description" : "An overly complicated footstep sound enhancement mod for Minecraft.",
+        "recommendation" : "starred",
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/liteloader-1.10.2-release.jar",
+          "mods/mod-pf-u12-mc1.10.2.litemod",
+          "resourcepacks/Presence Footsteps 1.10.2.zip",
+          "resourcepacks/Presence Footsteps Resources 1.10.2.zip"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "WorldEdit CUI",
+        "description" : "This mod provides a client-side user interface for the WorldEdit plugin allowing you to see your selected region in-game in real time.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/WorldEditCuiFe-v1.0.6-mf-1.10.2-12.18.2.2125.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Chat Bubbles",
+        "description" : "Chat Bubbles is a mod that displays things other players say above their heads in a chat bubble, like some MMORPGs.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/mod_chatBubbles-1.0.1c_for_1.10.0.litemod",
+          "mods/liteloader-1.10.2-release.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "CMD Cam",
+        "description" : "Camera Mod created by CreativeMD",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/CMDCam v1.1.2 mc1.10.2.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsof.txt",
+      "optionsshaders.txt",
+      "servers.dat"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}

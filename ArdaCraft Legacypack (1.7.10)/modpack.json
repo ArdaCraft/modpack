@@ -1,0 +1,48 @@
+{
+  "name" : "ArdaCraft Legacypack (1.7.10)",
+  "title" : "ArdaCraft Legacypack (1.7.10)",
+  "gameVersion" : "1.7.10",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Better Foliage",
+        "description" : "Adds better leaves and a bunch of different neat features.",
+        "recommendation" : "starred",
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/BetterFoliage-1.0.3.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Shaders Mod",
+        "description" : "A mod that allows the use of Shader Packs, to make minecraft have realistic lighting and effects.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/ShadersModCore-v2.3.28-mc1.7.10-f.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsof.txt",
+      "optionsshaders.txt"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true -Xmx2G"
+    ]
+  }
+}
