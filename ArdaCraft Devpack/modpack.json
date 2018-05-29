@@ -2,98 +2,12 @@
   "name" : "ArdaCraft Devpack",
   "title" : "ArdaCraft Devpack",
   "gameVersion" : "1.12.2",
-  "features" : [
-    {
-      "properties" : {
-        "name" : "Better Foliage",
-        "description" : "Better Foliage is a Forge mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks.",
-        "recommendation" : "starred",
-        "selected" : true
-      },
-      "files" : {
-        "include" : [
-          "mods/BetterFoliage-MC1.12-2.1.10.jar"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "Journey Map",
-        "description" : "JourneyMap is a client+server mod for Forge which maps your Minecraft world in real-time as you explore.",
-        "recommendation" : "starred",
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/journeymap-1.10.2-5.4.6.jar"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "FAWE",
-        "description" : "World Edit addon that allows for 'Async' World Edits.",
-        "recommendation" : "starred",
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/FastAsyncWorldEdit-forge112-18.04.20-cfe47d2-1080-19.5.14"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "Quick Hotbar",
-        "description" : "Mod that gives you a quick hotbar",
-        "recommendation" : "starred",
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/quickhotbar_112_1.05.jar"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "Worldedit",
-        "description" : "Modifiy things.",
-        "recommendation" : "starred",
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/worldedit-forge-mc1.12.2-6.1.8-dist.jar"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "WorldEdit CUI",
-        "description" : "This mod provides a client-side user interface for the WorldEdit plugin allowing you to see your selected region in-game in real time.",
-        "recommendation" : "starred",
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/WorldEdit CUI Forge Edition 2-2.1.2-mf-1.12.2-14.23.0.2487.jar"
-        ],
-        "exclude" : [ ]
-      }
-    }
-  ],
+  "features" : [ ],
   "userFiles" : {
     "include" : [
       "options.txt",
       "optionsof.txt",
-      "optionsshaders.txt",
-      "servers.dat"
+      "optionsshaders.txt"
     ],
     "exclude" : [ ]
   },
