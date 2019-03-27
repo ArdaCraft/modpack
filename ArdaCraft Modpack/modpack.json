@@ -12,7 +12,7 @@
       },
       "files" : {
         "include" : [
-          "mods/BetterFoliage-MC1.12-2.1.10.jar"
+          "mods/BetterFoliage-MC1.12-2.2.0.jar"
         ],
         "exclude" : [ ]
       }
@@ -26,7 +26,7 @@
       },
       "files" : {
         "include" : [
-          "mods/journeymap-1.12.2-5.5.2.jar"
+          "mods/journeymap-1.12.2-5.5.4.jar"
         ],
         "exclude" : [ ]
       }
@@ -40,7 +40,8 @@
       },
       "files" : {
         "include" : [
-          "mods/DynamicSurroundings-1.12.2-3.4.9.13.jar"
+          "mods/DynamicSurroundings-1.12.2-3.5.4.3.jar",
+          "mods/OreLib-1.12.2-3.5.2.2.jar"
         ],
         "exclude" : [ ]
       }
@@ -55,7 +56,7 @@
       "files" : {
         "include" : [
           "mods/mod-tabbychat-2.3.4-mc1.12.2.litemod",
-          "liteloader-1.12.2-SNAPSHOT-release.jar"
+          "mods/liteloader-1.12.2-SNAPSHOT-release.jar"
         ],
         "exclude" : [ ]
       }
@@ -69,7 +70,7 @@
       },
       "files" : {
         "include" : [
-          "mods/WorldEdit CUI Forge Edition 2-2.1.2-mf-1.12.2-14.23.0.2487.jar"
+          "mods/WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar"
         ],
         "exclude" : [ ]
       }
@@ -83,7 +84,8 @@
       },
       "files" : {
         "include" : [
-          "mods/CMDCam+v1.3.0+mc1.12.2.jar"
+          "mods/CMDCam_v1.4.2_mc1.12.2.jar",
+          "mods/CreativeCore_v1.9.41_mc1.12.2.jar"
         ],
         "exclude" : [ ]
       }
@@ -97,7 +99,7 @@
       },
       "files" : {
         "include" : [
-          "mods/quickhotbar_112_1.05.jar"
+          "mods/quickhotbar_1122_1.05.jar"
         ],
         "exclude" : [ ]
       }
@@ -111,8 +113,8 @@
       },
       "files" : {
         "include" : [
-          "mods/Stellar+Sky-1.12.2-0.5.2.8.jar",
-          "mods/Stellar+API-1.12.2-0.4.2.8.jar"
+          "mods/Stellar+Sky-1.12.2-0.5.3.2.jar",
+          "mods/Stellar+API-1.12.2-0.4.2.9.jar"
         ],
         "exclude" : [ ]
       }
@@ -126,8 +128,7 @@
       },
       "files" : {
         "include" : [
-          "mods/Sounds-Physics-1.12.2.jar",
-          "resourcepacks/SE-Soundfix-v0.2.zip"
+          "mods/Sound-Physics-1.12.2.jar"
         ],
         "exclude" : [ ]
       }
