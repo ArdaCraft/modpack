@@ -22,7 +22,7 @@
         "name" : "Journey Map",
         "description" : "JourneyMap is a client+server mod for Forge which maps your Minecraft world in real-time as you explore.",
         "recommendation" : "starred",
-        "selected" : false
+        "selected" : true
       },
       "files" : {
         "include" : [
@@ -40,8 +40,8 @@
       },
       "files" : {
         "include" : [
-          "mods/DynamicSurroundings-1.12.2-3.5.4.3.jar",
-          "mods/OreLib-1.12.2-3.5.2.2.jar"
+          "mods/DynamicSurroundings-1.12.2-3.6.0.2.jar",
+          "mods/OreLib-1.12.2-3.6.0.1.jar"
         ],
         "exclude" : [ ]
       }
@@ -65,12 +65,12 @@
       "properties" : {
         "name" : "WorldEdit CUI",
         "description" : "This mod provides a client-side user interface for the WorldEdit plugin allowing you to see your selected region in-game in real time.",
-        "recommendation" : null,
-        "selected" : false
+        "recommendation" : "starred",
+        "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar"
+          "mods/WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12.2-14.23.5.2768.jar"
         ],
         "exclude" : [ ]
       }
@@ -84,8 +84,8 @@
       },
       "files" : {
         "include" : [
-          "mods/CMDCam_v1.4.2_mc1.12.2.jar",
-          "mods/CreativeCore_v1.9.41_mc1.12.2.jar"
+          "mods/CMDCam_v1.4.4_mc1.12.2.jar",
+          "mods/CreativeCore_v1.9.70_mc1.12.2.jar"
         ],
         "exclude" : [ ]
       }
@@ -100,21 +100,6 @@
       "files" : {
         "include" : [
           "mods/quickhotbar_1122_1.05.jar"
-        ],
-        "exclude" : [ ]
-      }
-    },
-    {
-      "properties" : {
-        "name" : "Stellar Sky",
-        "description" : "Adds a more realistic sky to your game.",
-        "recommendation" : null,
-        "selected" : false
-      },
-      "files" : {
-        "include" : [
-          "mods/Stellar+Sky-1.12.2-0.5.3.2.jar",
-          "mods/Stellar+API-1.12.2-0.4.2.9.jar"
         ],
         "exclude" : [ ]
       }
