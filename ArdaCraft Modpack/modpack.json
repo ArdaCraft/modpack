@@ -6,13 +6,14 @@
     {
       "properties" : {
         "name" : "Better Foliage",
-        "description" : "Better Foliage is a Forge mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks.",
+        "description" : "Better Foliage is a Forge mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks.\n\nhttps://www.curseforge.com/minecraft/mc-mods/better-foliage",
         "recommendation" : "starred",
         "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/BetterFoliage-MC1.12-2.2.0.jar"
+          "mods/BetterFoliage-MC1.12-2.3.1.jar",
+          "mods/Forgelin-1.8.4.jar"
         ],
         "exclude" : [ ]
       }
@@ -20,13 +21,13 @@
     {
       "properties" : {
         "name" : "Journey Map",
-        "description" : "JourneyMap is a client+server mod for Forge which maps your Minecraft world in real-time as you explore.",
+        "description" : "JourneyMap is a client+server mod for Forge which maps your Minecraft world in real-time as you explore.\n\nhttps://www.curseforge.com/minecraft/mc-mods/journeymap",
         "recommendation" : "starred",
         "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/journeymap-1.12.2-5.5.4.jar"
+          "mods/journeymap-1.12.2-5.7.1.jar"
         ],
         "exclude" : [ ]
       }
@@ -34,7 +35,7 @@
     {
       "properties" : {
         "name" : "Dynamic Surroundings",
-        "description" : "Dynamic Surroundings is a mod much like Matmos that adds enviornmental sounds to your game.",
+        "description" : "Dynamic Surroundings is a mod much like Matmos that adds enviornmental sounds to your game.\n\nhttps://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings",
         "recommendation" : null,
         "selected" : false
       },
@@ -49,7 +50,7 @@
     {
       "properties" : {
         "name" : "Tabby Chat",
-        "description" : "TabbyChat is a client-side mod for Minecraft that aims to make the multiplayer chat interface more organized, managable, and user-friendly.",
+        "description" : "TabbyChat is a client-side mod for Minecraft that aims to make the multiplayer chat interface more organized, managable, and user-friendly.\n\nhttps://www.curseforge.com/minecraft/mc-mods/tabbychat-2",
         "recommendation" : null,
         "selected" : false
       },
@@ -64,13 +65,13 @@
     {
       "properties" : {
         "name" : "WorldEdit CUI",
-        "description" : "This mod provides a client-side user interface for the WorldEdit plugin allowing you to see your selected region in-game in real time.",
+        "description" : "This mod provides a client-side user interface for the WorldEdit plugin allowing you to see your selected region in-game in real time.\n\nhttps://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-2",
         "recommendation" : "starred",
         "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12.2-14.23.5.2768.jar"
+          "mods/WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar"
         ],
         "exclude" : [ ]
       }
@@ -78,14 +79,14 @@
     {
       "properties" : {
         "name" : "CMD Cam",
-        "description" : "Camera Mod created by CreativeMD",
+        "description" : "Camera Mod created by CreativeMD.\n\nhttps://www.curseforge.com/minecraft/mc-mods/cmdcam",
         "recommendation" : null,
         "selected" : false
       },
       "files" : {
         "include" : [
-          "mods/CMDCam_v1.4.4_mc1.12.2.jar",
-          "mods/CreativeCore_v1.9.70_mc1.12.2.jar"
+          "mods/CMDCam_v1.4.7_mc1.12.2.jar",
+          "mods/CreativeCore_v1.10.16_mc1.12.2.jar"
         ],
         "exclude" : [ ]
       }
@@ -93,7 +94,7 @@
     {
       "properties" : {
         "name" : "QuickHotBar",
-        "description" : "Adds extra hot bars on top of your existing hot bar.",
+        "description" : "Adds extra hot bars on top of your existing hot bar.\n\nhttps://www.curseforge.com/minecraft/mc-mods/quick-hotbar",
         "recommendation" : null,
         "selected" : false
       },
@@ -107,13 +108,27 @@
     {
       "properties" : {
         "name" : "Sound Physics",
-        "description" : "Like Matmos, adds sound physics to your game.",
+        "description" : "Like Matmos, adds sound physics to your game.\n\nhttps://github.com/djpadbit/Sound-Physics",
         "recommendation" : null,
         "selected" : false
       },
       "files" : {
         "include" : [
-          "mods/Sound-Physics-1.12.2.jar"
+          "mods/Sound-Physics-1.12.2-1.0.9.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Camera",
+        "description" : "A camera mod that lets you change time, weather, and move freely around your character.\n\nhttps://github.com/ArdaCraft/Camera",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/Camera-1.0.0-mc1.12.2.jar"
         ],
         "exclude" : [ ]
       }
