@@ -1,0 +1,17 @@
+{
+  "root": "",
+  "targets": [
+    {
+      "owner": "ArdaCraft",
+      "repository": "AC_Overlay",
+      "target": "latest",
+      "assets": [
+        {
+          "match": "^AC",
+          "extract": false,
+          "parent": "resourcepacks"
+        }
+      ]
+    }
+  ]
+}
