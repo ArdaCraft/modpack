@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "ArdaCraft Main",
+    "description": "ArdaCraft Running Minecraft 1.12.2 (Forge v14.23.5.2854) (Liteloader v1.12.2)",
+    "address": "mc.ardacraft.me:25565",
+    "icon": "https://ardacraft.github.io/launcher/assets/logo.png",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2854"
+  },
+  "liteloader": {
+    "version": "1.12.2"
+  }
+}
